@@ -162,6 +162,7 @@ abline(h=0, lty=2)
 ```
 
 ![plot of chunk levelresid](figure/levelresid-1.png)
+
 Here, a pronounced positive pattern is evident in the residuals within the middle range.
 
 ### Model two
