@@ -1,13 +1,4 @@
----
-title: "Predicting Over/Under at Home"
-author: "Clarissa Miranda"
-date: "21/8/2023"
-output:
-  html_document: default
-  pdf_document: default
----
-
-
+# Predicting Over/Under at Home
 
 ## Executive summary
 
